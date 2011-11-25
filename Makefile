@@ -31,3 +31,4 @@ clean:
 	rm -rf $(OBJS)
 	rm -rf libneuro.a
 	rm -rf main
+	rm -rf gmon.out
